@@ -1,12 +1,3 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4RDZPTJEDH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-4RDZPTJEDH');
-</script>
 # Download Proton VPN Mod APK – Unlimited Connections and More!
 
 Download Proton VPN Mod APK and unlock the true potential of a premium VPN service! This modded version breaks through the limitations of the standard Proton VPN, allowing you to connect to as many devices as you desire. Unlike the standard version, which caps connections at ten devices, Proton VPN Mod APK is perfect for users who need unrestricted, secure browsing across all their gadgets. Stay anonymous, secure your data, and enjoy lightning-fast browsing with this modded VPN!
